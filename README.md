@@ -1,2 +1,2 @@
-# AY_JSON
-Geojson for Ayutthaya Administrative
+# Thai_PAT_JSON
+Geojson for Thailand Administrative
